@@ -7,7 +7,7 @@
 
 | Фото ДО | Фото ПОСЛЕ |
 | :---: | :---: |
-| **Кейс 1** <br> <img src="resources/1_before.PNG" width="450" style="border-radius: 8px;"> | **Кейс 1** <br> <img src="resources/1_after.PNG" width="450" style="border-radius: 8px;"> |
+| **Кейс 1** <br> <img src="resources/1_before.PNG" width="450" style="border-radius: 8px;"> | **Кейс 1** <br> <img src="resources/1_after1.PNG" width="450" style="border-radius: 8px;"> |
 | **Кейс 2** <br> <img src="resources/2_before.PNG" width="450" style="border-radius: 8px;"> | **Кейс 2** <br> <img src="resources/2_after.PNG" width="450" style="border-radius: 8px;"> |
 | **Кейс 3** <br> <img src="resources/3_before.PNG" width="450" style="border-radius: 8px;"> | **Кейс 3** <br> <img src="resources/3_after.PNG" width="450" style="border-radius: 8px;"> |
 | **Кейс 4** <br> <img src="resources/4_before.PNG" width="450" style="border-radius: 8px;"> | **Кейс 4** <br> <img src="resources/4_after.PNG" width="450" style="border-radius: 8px;"> |
