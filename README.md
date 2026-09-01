@@ -9,11 +9,11 @@
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <div style="width: 48%;">
     <p align="center"><b>ДО</b></p>
-    <img src="resources/1_before.PNG" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="До">
+    <img src="resources/1_before.PNG" width="40%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="До">
   </div>
   <div style="width: 48%;">
     <p align="center"><b>ПОСЛЕ</b></p>
-    <img src="resources/1_after.PNG" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="После">
+    <img src="resources/1_after.PNG" width="40%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="После">
   </div>
 </div>
 
