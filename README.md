@@ -1,17 +1,16 @@
 # portfolio-hygiene
 Портфолио за период работы гигиенистом
 
-<p>
- 
- <p align="left">
- <img width="400px" src="resources/1_before.PNG" alt="qr"/>
- <p>До</p>
-</p>
-
-<p align="right">
- <img width="400px" src="resources/1_before.PNG" alt="qr"/>
- <p>После</p>
-</p>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><b>До</b></p>
+      <img src="resources/1_before.PNG" width="400" alt="До">
+    </td>
+    <td align="center">
+      <p><b>После</b></p>
+      <img src="resources/1_after.PNG" width="400" alt="После">
+    </td>
+  </tr>
+</table>
 
